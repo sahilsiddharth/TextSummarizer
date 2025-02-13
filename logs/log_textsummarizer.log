@@ -26,3 +26,32 @@ x==========x]
 [2025-02-13 16:57:25,344: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2025-02-14 04:20:04,544: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-14 04:29:34,978: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-14 04:29:34,987: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-14 04:29:34,989: INFO: common: artifacts directory created]
+[2025-02-14 04:29:34,991: INFO: common: artifacts/data_transformation directory created]
+[2025-02-14 04:31:11,146: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-14 04:31:11,148: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-14 04:31:11,149: INFO: common: artifacts directory created]
+[2025-02-14 04:31:11,150: INFO: common: artifacts/data_transformation directory created]
+[2025-02-14 04:39:15,103: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-14 04:41:29,949: INFO: config: PyTorch version 2.6.0 available.]
+[2025-02-14 04:41:30,181: INFO: main: Logging is  implemented]
+[2025-02-14 04:41:30,181: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-14 04:41:30,184: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-14 04:41:30,185: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-14 04:41:30,185: INFO: common: artifacts directory created]
+[2025-02-14 04:41:30,186: INFO: common: artifacts/data_ingestion directory created]
+[2025-02-14 04:41:30,186: INFO: data_ingestion: File already exists]
+[2025-02-14 04:41:30,284: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-02-14 04:41:30,285: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-02-14 04:41:30,288: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-14 04:41:30,288: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-14 04:41:30,289: INFO: common: artifacts directory created]
+[2025-02-14 04:41:30,289: INFO: common: artifacts/data_transformation directory created]
+[2025-02-14 04:41:33,914: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
