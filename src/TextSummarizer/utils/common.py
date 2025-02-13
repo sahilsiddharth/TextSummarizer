@@ -1,5 +1,5 @@
 import os
-from box.exception import BoxValueError
+from box.exceptions import BoxValueError
 from box import ConfigBox 
 import yaml
 from src.TextSummarizer.logging import logger
@@ -10,8 +10,8 @@ from typing import Any
 @ensure_annotations
 def read_yaml(path_to_yaml: Path)->ConfigBox:
     try:
-        with open(path_to_yaml) as f_yaml:
-            content=yaml.safe_load(path_to_yaml)
+        with open(path_to_yaml) as yaml_file:
+            content=yaml.safe_load(yaml_file)
             logger.info(f"yaml file {path_to_yaml} loaded successfully")
             return ConfigBox(content)
     except BoxValueError:

@@ -1,1 +1,28 @@
 [2025-02-12 04:36:37,213: INFO: main: Logging is  implemented]
+[2025-02-12 19:24:50,753: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-12 19:24:50,755: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-12 19:26:29,227: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-12 19:26:29,228: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-12 19:26:29,230: INFO: common: artifacts directory created]
+[2025-02-12 19:26:29,231: INFO: common: artifacts/data_ingestion directory created]
+[2025-02-12 19:26:35,372: INFO: 3308792454: File is downloaded]
+[2025-02-13 16:56:56,859: INFO: main: Logging is  implemented]
+[2025-02-13 16:56:56,860: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-13 16:56:56,862: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-13 16:56:56,864: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-13 16:56:56,864: INFO: common: artifacts directory created]
+[2025-02-13 16:56:56,865: INFO: common: artifacts/data_ingestion directory created]
+[2025-02-13 16:56:56,865: INFO: data_ingestion: File already exists]
+[2025-02-13 16:56:56,979: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-02-13 16:57:18,944: INFO: main: Logging is  implemented]
+[2025-02-13 16:57:18,945: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-13 16:57:18,947: INFO: common: yaml file config\config.yaml loaded successfully]
+[2025-02-13 16:57:18,948: INFO: common: yaml file params.yaml loaded successfully]
+[2025-02-13 16:57:18,949: INFO: common: artifacts directory created]
+[2025-02-13 16:57:18,950: INFO: common: artifacts/data_ingestion directory created]
+[2025-02-13 16:57:25,225: INFO: data_ingestion: File is downloaded]
+[2025-02-13 16:57:25,344: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
